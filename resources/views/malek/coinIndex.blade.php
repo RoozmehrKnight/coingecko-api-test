@@ -8,7 +8,7 @@
     <title>Coins Inedx</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body>
+<body class="dark:bg-black">
     <main class="container">
         <div class="flex flex-col">
             <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
